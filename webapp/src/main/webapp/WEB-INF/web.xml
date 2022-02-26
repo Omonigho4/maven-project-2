@@ -10,8 +10,8 @@
   <servlet-class>com.example.HelloWorldExample</servlet-class>
   </servlet>
   <servlet-mapping>
-  <servlet-name>HelloWorld jjtech family batch Example</servlet-name>
-  <url-pattern>/hello family</url-pattern>
+  <servlet-name>HelloWorld jjtech Example</servlet-name>
+  <url-pattern>/hello</url-pattern>
   </servlet-mapping>
   -->
 </web-app>
